@@ -59,7 +59,7 @@ public:
 4. **Read the user's input into the variables `n1` and `n2`.**
 5. **Try the following:**
    - **Check if `n2` is equal to 0:**
-      - If true, `throw` an exception with the value of `n2`.**
+     - If true, `throw` an exception with the value of `n2`.**
    - If the check is false, calculate `ans` as `n1 / n2`.**
    - **Print the result as `The answer is [result]`.**
 6. **Catch any exceptions:**
@@ -75,9 +75,9 @@ public:
 4. **Read the user's input into the variable `age`.**
 5. **Try the following:**
    - **Check if `age` is less than 0:**
-      - **If true, `throw` an exception indicating an invalid age.**
+     - **If true, `throw` an exception indicating an invalid age.**
    - **Check if `age` is less than 18:**
-      - **If true, `throw` an exception indicating that the user is below 18.**
+     - **If true, `throw` an exception indicating that the user is below 18.**
    - **If both checks are false, `print` "Accepted".**
 6. **Catch any exceptions:**
    - **If the exception indicates an invalid `age` (less than 0), `print` "Invalid age".**
