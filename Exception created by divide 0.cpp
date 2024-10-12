@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Exception Handling to perform Handle Exception created by divide 0 error
+//Aim:Implementation of Exception Handling to perform Handle Exception created by divide 0 error
 
 #include <iostream>
 using namespace std;
