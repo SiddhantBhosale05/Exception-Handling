@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Exception Handling to perform Handle Exception created by age below 18 error
+//Aim:Implementation of Exception Handling to perform Handle Exception created by age below 18 error
 
 #include <iostream>
 using namespace std;
